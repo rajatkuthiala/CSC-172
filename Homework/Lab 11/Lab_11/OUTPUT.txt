@@ -1,0 +1,21 @@
+/*
+ * Rajat Kuthiala
+ * LAB-11
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+Welcome to DrRacket, version 6.4 [3m].
+Language: Advanced Student; memory limit: 128 MB.
+6
+5
+5
+4
+3
+> 

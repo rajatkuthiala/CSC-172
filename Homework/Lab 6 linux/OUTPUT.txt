@@ -1,0 +1,30 @@
+/*
+ * Rajat Kuthiala
+ * LAB-6
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+OUTPUT:
+
+### Testing push method ###
+Pushed 'R' 
+Pushed 'A' 
+Pushed 'J' 
+
+### Testing isEmpty method ###
+Is the stack empty? false
+
+### Testing peek method ###
+Peeking top of stack: J
+
+### Testing pop method ###
+Popped: J
+Popped: A
+Popped: R

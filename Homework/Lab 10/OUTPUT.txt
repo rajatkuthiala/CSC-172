@@ -1,0 +1,28 @@
+/*
+ * Rajat Kuthiala
+ * LAB-10
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+inOrder Traversal: 
+0, 5, 10, 12, 15, 18, 20, 25, 30, 
+
+preOrder Traversal: 
+15, 10, 5, 0, 12, 20, 18, 25, 30, 
+
+postOrder Traversal: 
+0, 5, 12, 10, 18, 30, 25, 20, 15, 
+
+Looking up 12 in Binary Search Tree
+Boolean Result: true
+
+... Deleting 0, 15 and 12
+[Post Deletion] inOrder Traversal: 
+5, 10, 18, 20, 25, 30, 

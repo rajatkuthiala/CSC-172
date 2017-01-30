@@ -1,0 +1,9 @@
+Output Graph11
+
+Average Path is: 0.6
+(0.1000, 0.4000) (0.1100, 0.8000) : The points are seperated by the line: (0.0000, 0.7000), (0.3000, 0.7000)
+(0.2000, 0.3000) (0.5000, 0.2000) : The points are seperated by the line: (0.0000, 0.0000), (0.6000, 0.6000)
+(0.6000, 0.1000) (0.8000, 0.9000) : The points are seperated by the line: (1.0000, 1.0000), (0.6000, 0.6000)
+(0.1000, 0.2000) (0.2000, 0.4000) : They are in the same region
+(0.2000, 0.4000) (0.8000, 0.1000) : The points are seperated by the line: (0.6000, 0.0000), (0.6000, 0.4000)
+(0.5000, 0.9000) (0.8000, 0.4000) : The points are seperated by the line: (1.0000, 1.0000), (0.6000, 0.6000)

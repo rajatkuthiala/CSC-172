@@ -1,0 +1,31 @@
+/*
+ * Rajat Kuthiala
+ * LAB-5
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+OUTPUT:
+
+My Doubly Linked List: 
+R, A, J, T, 
+
+My Doubly Linked List in Reverse: 
+T, J, A, R, 
+
+Does my Doubly Linked list contain 'x' ? false
+
+My Doubly Linked List After Duplicate Insertion: 
+R, A, J, T, 
+
+Implementing Lookup Method. Looking up 'A'
+Returning: A
+
+Implementing Delete Method: Removing 'K' and 'J'
+R, A, T, 

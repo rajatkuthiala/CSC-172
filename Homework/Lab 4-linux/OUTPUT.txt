@@ -1,0 +1,29 @@
+/*
+ * Rajat Kuthiala
+ * LAB-4
+ * Part:6
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+
+
+Linked List: 
+R, A, J, T, 
+
+Does the Linked List contain 'J'? true
+
+Linked List after duplicate insertion: 
+R, A, J, T, 
+
+Looking up 'T' in the Linked List: T
+Looking up 'X' in the Linked List: null
+
+Deleting 'R' and 'T' from the Linked List
+A, J, 

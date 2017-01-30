@@ -1,0 +1,52 @@
+/*
+ * Rajat Kuthiala
+ * LAB-1
+ * Part:6
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+OUTPUTS:
+
+### SECTION 1:
+
+[1, 2, 3, 4, 5]
+[1.1, 2.2, 3.3, 4.4]
+[H, E, L, L, O]
+[once, upon, a, time]
+
+
+### SECTION 2:
+
+[1, 2, 3, 4, 5]
+[1.1, 2.2, 3.3, 4.4]
+[H, E, L, L, O]
+[once, upon, a, time]
+
+### SECTION 3: 
+
+[1, 2, 3, 4, 5]
+[1.1, 2.2, 3.3, 4.4]
+[H, E, L, L, O]
+[once, upon, a, time]
+
+
+### SECTION 4:
+
+Max Integer is: 5
+Max Double is: 4.4
+Max Character is: O
+Max String is: upon
+
+### SECTION 5:
+
+Max Integer is: 5
+Max Double is: 4.4
+Max Character is: O
+Max String is: upon

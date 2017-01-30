@@ -1,0 +1,30 @@
+/*
+ * Rajat Kuthiala
+ * LAB-7
+ * CSC-172
+ * TA: Shuyang Liu
+ * Partner: Jordy
+ * 
+ * I affirm that I have not given 
+ * or received any unauthorized help 
+ * on this assignment, and that this 
+ * work is my own.
+ */
+
+OUTPUT:
+
+### Testing Enqueue method ###
+Enqueue 'R' 
+Enqueue 'A' 
+Enqueue 'J' 
+
+### Testing isEmpty method ###
+Is the queue empty? false
+
+### Testing peek method ###
+Peeking top of q: R
+
+### Testing dequeue method ###
+dequeue: R
+dequeue: A
+dequeue: J

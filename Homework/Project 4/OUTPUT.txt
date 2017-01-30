@@ -1,0 +1,7 @@
+Rajat Kuthiala
+Project 4
+
+Compile: javac *.java
+
+run: java Mapping nys.txt -show -meridianmap
+ or: java Mapping nys.txt -show -directions start end
