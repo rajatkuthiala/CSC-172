@@ -12,7 +12,3 @@ For this lab we had to create a program that could read in a list of points and 
 Compile: javac *.java
 run: java Mapping (Map name) -show -meridianmap
 
-
-References:
-http://en.wikipedia.org/wiki/Prim%27s_algorithm
-Nicholas T Graham as some parts of codes were taken from his github https://github.com/NickTGraham/CSC172
